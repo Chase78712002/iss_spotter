@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Chase78712002/iss_spotter#readme",
   "dependencies": {
     "dayjs": "^1.10.4",
-    "request": "^2.88.2"
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9"
   }
 }
